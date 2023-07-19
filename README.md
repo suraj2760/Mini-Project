@@ -15,7 +15,7 @@ of time inquire about the current items present in the trolley. This will turn o
 to be very beneficial for the retail stores as more people will enjoy the
 shopping experience and come more often to shop.
 
-                                             BOSCO GRIP CART
+                                                            BOSCO GRIP CART
 
  # INTRODUCTION
 
