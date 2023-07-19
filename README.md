@@ -17,7 +17,7 @@ shopping experience and come more often to shop.
 
                                              BOSCO GRIP CART
 
- INTRODUCTION
+ # INTRODUCTION
 
 Nowadays, most people go shopping daily for food, electronics, other necessary
 items. The number of people who visit the mall/ shopping marts is increased every
@@ -32,7 +32,7 @@ counter, it increases customer satisfaction, customers can see the full details 
 product, users can be aware of the total bill amount before going to the cashier for
 the payment.
 
-METHODOLOGY
+# METHODOLOGY
 
 Our project includes STM nuecleo board as our microcontroller
 along with an I2C based LCD display and an RFID reader, RC522 module and
@@ -43,7 +43,7 @@ product and these details of the product are reflected in the LCD display which
 is also interfaced with our nuecleo board.
 
 
-OBJECTIVE
+# OBJECTIVE
 
 Everyone can rely on this in the
 future as this will help them to
@@ -55,11 +55,11 @@ shopping malls/ shopping marts
 during
 the billing process.
 
-IMAGES 
+# IMAGES 
 
 ![image](https://github.com/suraj2760/Mini-Project/assets/89779223/24cef742-bf1c-463b-93e3-52ab30faccb1)
 
-CONCLUSION
+# CONCLUSION
 
 As the user keeps on adding different items, the number of items keeps
 on increasing and the total price also keeps on adding and increasing.
